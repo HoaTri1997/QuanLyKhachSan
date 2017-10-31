@@ -3,8 +3,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Tra cứu khách đặt</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge,chrome=1">
     <!-- Boostrap-->
@@ -23,13 +23,14 @@
     <script src="./JS/tracuu.js"></script>
 </head>
 <body>
-    <!-- HEADER -->
+	<!-- HEADER -->
     <header id="header"></header>
 
     <!-- MENU-LEFT -->
     <section id="menu"> </section>
 
     <!-- CONTENT -->
+   
     <section class="phan-noi-dung">
         <h4>TRA CỨU KHÁCH ĐẶT</h4>
         <label> Mã khách đặt: </label>
